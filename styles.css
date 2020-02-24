@@ -1,0 +1,56 @@
+h1,h2,h3,h4,h5,h6{
+    color: royalblue;
+}
+.nav {
+    background-color: burlywood
+}
+    .nav ul {
+        list-style: none;
+    }
+
+.nav-text li{
+    font-family: 'Slabo 27px', cursive;
+}
+
+.main-header {
+    font-size: 100px;
+    font-style: inherit;
+    text-decoration: underline;
+}
+
+.div-keramik {
+    height: 100px;
+    width: 100px;
+    padding: 30px;
+    outline: 3px; color: teal;
+}
+
+.nav ul li: mouse-over {
+    background-color: blue;
+    color: red;
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: auto;
+}
+input,
+label {
+    margin: 5px;
+}
+
+input {
+    padding: 10px;
+}
+
+.sumbit {
+    background: white
+    
+}
+
+.submit:hover {
+    background: grey;
+    color: whitesmoke;
+}
